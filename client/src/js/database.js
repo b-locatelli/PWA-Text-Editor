@@ -20,7 +20,7 @@ const tx = contactDb.transaction('jate', 'readwrite');
 
 const store = tx.objectStore('jate');
 
-const request = store.add({  });
+const request = store.add({ value: content });
 
 const result = await request;
 console.log('🚀 - data saved to the database', result);
