@@ -33,11 +33,11 @@ module.exports = () => {
         inject: true,
         name: 'Text editor',
         short_name: 'J.A.T.E',
-        description: 'Never forget your contacts!',
+        description: 'Just another text editor',
         background_color: '#225ca3',
         theme_color: '#225ca3',
-        start_url: './',
-        publicPath: './',
+        start_url: '/',
+        publicPath: '/',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
