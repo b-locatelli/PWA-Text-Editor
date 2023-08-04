@@ -27,3 +27,5 @@
   ## Questions
   * Github: https://github.com/baily-locatelli
   * Email: bailylocatelli@gmail.com
+  * heroku: https://text-editor-pwa-bcs-8a2f9be88dc3.herokuapp.com/
+  
